@@ -1,49 +1,18 @@
 score,title,company,location,site,date_posted,job_url
-9,SAP BTP Integration Consultant - 8-Month Cloud Project,Müller`s Solutions,Saudi Arabia,bayt,2026-11-16,https://www.bayt.com/en/saudi-arabia/jobs/sap-btp-integration-consultant-8-month-cloud-project-75425519/
-7,Certified Business Analyst (ERP/GRP experience),Avensys Consulting,"Riyadh, Saudi Arabia",linkedin,2026-11-18,https://www.linkedin.com/jobs/view/4490856972
-6,"Certified Business Analyst (ERP/GRP experience , Saudi Nationals )",Avensys Consulting,"Riyadh, Saudi Arabia",linkedin,2026-11-17,https://www.linkedin.com/jobs/view/4491576419
-6,SAP Integration Consultant (Mirnah),Müller`s Solutions,Saudi Arabia,bayt,2026-11-16,https://www.bayt.com/en/saudi-arabia/jobs/sap-integration-consultant-mirnah-75425851/
-5,Senior Technical Support Engineer,ABYAT,"Dammam, Eastern, Saudi Arabia",linkedin,2026-11-17,https://www.linkedin.com/jobs/view/4491566653
-4,Integration Architect,Advansys ME,"الرياض, S01, Saudi Arabia",indeed,2026-11-17,https://sa.indeed.com/viewjob?jk=d9cf553178fc47ea
-4,Business Sales & Delivery Leader-SAP,IBM,"Riyadh, Riyadh, Saudi Arabia",linkedin,2026-11-17,https://www.linkedin.com/jobs/view/4490460989
-4,IBM Integration Developer (CP4I),InnovationTeam,Saudi Arabia,linkedin,2026-11-15,https://www.linkedin.com/jobs/view/4491255190
-4,Support Engineer (CRM / Microsoft Dynamics 365),Salt,"Riyadh, Saudi Arabia",linkedin,2026-11-18,https://www.linkedin.com/jobs/view/4490864458
-3,SAP Project Manager / Solution Architect (8 Month),Müller`s Solutions,Saudi Arabia,bayt,2026-11-16,https://www.bayt.com/en/saudi-arabia/jobs/sap-project-manager-solution-architect-8-month-75425567/
-3,SAP Developer - Cloud Project (8 Month),Müller`s Solutions,Saudi Arabia,bayt,2026-11-16,https://www.bayt.com/en/saudi-arabia/jobs/sap-developer-cloud-project-8-month-75425466/
-3,SAP Mirnah POS Consultant,Müller`s Solutions,Saudi Arabia,bayt,2026-11-16,https://www.bayt.com/en/saudi-arabia/jobs/sap-mirnah-pos-consultant-75425129/
-3,SAP FICO Consultant,Müller`s Solutions,Saudi Arabia,bayt,2026-11-16,https://www.bayt.com/en/saudi-arabia/jobs/sap-fico-consultant-75426532/
-3,Package Consultant-SAP HANA FIN CO,IBM,"Riyadh, Riyadh, Saudi Arabia",linkedin,2026-11-17,https://www.linkedin.com/jobs/view/4490462934
-3,SAP SD Consultant (8 Month),Müller`s Solutions,Saudi Arabia,bayt,2026-11-16,https://www.bayt.com/en/saudi-arabia/jobs/sap-sd-consultant-8-month-75425574/
-3,SAP PM Consultant (Plant Maintenance),Müller`s Solutions,Saudi Arabia,bayt,2026-11-16,https://www.bayt.com/en/saudi-arabia/jobs/sap-pm-consultant-plant-maintenance-75425162/
-3,SAP ABAP Developer (ABAP Cloud / RAP),Müller`s Solutions,Saudi Arabia,bayt,2026-11-16,https://www.bayt.com/en/saudi-arabia/jobs/sap-abap-developer-abap-cloud-rap-75425933/
-3,SAP WRICEF Lead,Müller`s Solutions,Saudi Arabia,bayt,2026-11-16,https://www.bayt.com/en/saudi-arabia/jobs/sap-wricef-lead-75426549/
-3,SAP PS Consultant - Cloud Project (8 Month),Müller`s Solutions,Saudi Arabia,bayt,2026-11-16,https://www.bayt.com/en/saudi-arabia/jobs/sap-ps-consultant-cloud-project-8-month-75425743/
-3,SAP PP Consultant (Production Planning),Müller`s Solutions,Saudi Arabia,bayt,2026-11-16,https://www.bayt.com/en/saudi-arabia/jobs/sap-pp-consultant-production-planning-75425051/
-3,Senior Specialist - SAP Finance - Operations,Qiddiya Investment Company,Saudi Arabia,bayt,2026-11-16,https://www.bayt.com/en/saudi-arabia/jobs/senior-specialist-sap-finance-operations-75427511/
-3,SAP Workflow Administrator - Saudi Arabia,Eram Talent,Saudi Arabia,bayt,2026-11-16,https://www.bayt.com/en/saudi-arabia/jobs/sap-workflow-administrator-saudi-arabia-75425201/
-3,SAP Authorization Consultant,Müller`s Solutions,Saudi Arabia,bayt,2026-11-16,https://www.bayt.com/en/saudi-arabia/jobs/sap-authorization-consultant-75425540/
-3,SAP SCM Consultant - Cloud Project -(8 Month),Müller`s Solutions,Saudi Arabia,bayt,2026-11-16,https://www.bayt.com/en/saudi-arabia/jobs/sap-scm-consultant-cloud-project-8-month-75425757/
-3,SAP eInvoicing Consultant (SAP DRC),Müller`s Solutions,Saudi Arabia,bayt,2026-11-16,https://www.bayt.com/en/saudi-arabia/jobs/sap-einvoicing-consultant-sap-drc-75424988/
-3,SAP - IBP,Eram Talent,Saudi Arabia,bayt,2026-11-16,https://www.bayt.com/en/saudi-arabia/jobs/sap-ibp-75425373/
-3,SAP Fiori Developer,Müller`s Solutions,Saudi Arabia,bayt,2026-11-16,https://www.bayt.com/en/saudi-arabia/jobs/sap-fiori-developer-75425453/
-3,ERP SCM Specialist,Al Qaryan,"Dammam, Saudi Arabia",bayt,2026-11-16,https://www.bayt.com/en/saudi-arabia/jobs/erp-scm-specialist-5477360/
-3,SAP Data Analyst - 8-Month Cloud Project,Müller`s Solutions,Saudi Arabia,bayt,2026-11-16,https://www.bayt.com/en/saudi-arabia/jobs/sap-data-analyst-8-month-cloud-project-75425508/
-3,SAP Basis Consultant and Security Consultant (8 Month),Müller`s Solutions,Saudi Arabia,bayt,2026-11-16,https://www.bayt.com/en/saudi-arabia/jobs/sap-basis-consultant-and-security-consultant-8-month-75425930/
-3,SAP FICO Consultant - 8-Month Cloud Project,Müller`s Solutions,Saudi Arabia,bayt,2026-11-16,https://www.bayt.com/en/saudi-arabia/jobs/sap-fico-consultant-8-month-cloud-project-75425784/
-3,SAP PP/QM Consultant - Cloud Project (8 Month),Müller`s Solutions,Saudi Arabia,bayt,2026-11-16,https://www.bayt.com/en/saudi-arabia/jobs/sap-pp-qm-consultant-cloud-project-8-month-75425698/
-3,Business Analyst Developers \\GRC IRM,Integrated Solutions Tawantech,Saudi Arabia,bayt,2026-11-17,https://www.bayt.com/en/saudi-arabia/jobs/business-analyst-developers-grc-irm-75442670/
-3,Business Analyst,Namaa Partners,"Riyadh, Riyadh, Saudi Arabia",linkedin,2026-11-18,https://www.linkedin.com/jobs/view/4491834614
-3,Business analyst,Jobs for Humanity,"Dammam, Saudi Arabia",bayt,2026-11-17,https://www.bayt.com/en/saudi-arabia/jobs/business-analyst-75441652/
-3,"SQL Business Analyst, Hardlines Category, 3rd Party Marketplace (Saudi National)",Afaq Q Tech General Trading,"Riyadh, Saudi Arabia",bayt,2026-11-17,https://www.bayt.com/en/saudi-arabia/jobs/sql-business-analyst-hardlines-category-3rd-party-marketplace-saudi-national-75433019/
-3,Enterprise Architect (Saudi Arabia),Eram Talent,Saudi Arabia,bayt,2026-11-16,https://www.bayt.com/en/saudi-arabia/jobs/enterprise-architect-saudi-arabia-75425254/
-3,Senior Business Analyst Onsite in KSA - Octopus by RTG,robusta,Saudi Arabia,bayt,2026-11-16,https://www.bayt.com/en/saudi-arabia/jobs/senior-business-analyst-onsite-in-ksa-octopus-by-rtg-75426719/
-3,Senior HRSD Business Analyst,Integrated Solutions Tawantech,Saudi Arabia,bayt,2026-11-17,https://www.bayt.com/en/saudi-arabia/jobs/senior-hrsd-business-analyst-75442668/
-3,Business Analyst / Developer - GRC SecOps,Integrated Solutions Tawantech,Saudi Arabia,bayt,2026-11-17,https://www.bayt.com/en/saudi-arabia/jobs/business-analyst-developer-grc-secops-75442669/
-3,Senior HRSD Business Analyst,TAWANTECH,Saudi Arabia,bayt,2026-11-16,https://www.bayt.com/en/saudi-arabia/jobs/senior-hrsd-business-analyst-75426785/
-3,Business Analyst,Eram Talent,Saudi Arabia,bayt,2026-11-16,https://www.bayt.com/en/saudi-arabia/jobs/business-analyst-75425909/
-3,Junior L2 Application Support Engineer – Fresh Graduates,DXC Technology,"Riyadh, Saudi Arabia",linkedin,2026-11-18,https://www.linkedin.com/jobs/view/4491786992
-3,Service Desk Technician (Saudi Arabia),Eram Talent,Saudi Arabia,bayt,2026-11-16,https://www.bayt.com/en/saudi-arabia/jobs/service-desk-technician-saudi-arabia-75425017/
-3,IT Support Specialist,United Motors Group,Saudi Arabia,bayt,2026-11-16,https://www.bayt.com/en/saudi-arabia/jobs/it-support-specialist-75423797/
-3,SAP Sales Account Manager,Al Watania Information Systems (Wisys),"Riyadh, Riyadh, Saudi Arabia",linkedin,2026-11-18,https://www.linkedin.com/jobs/view/4492008238
-3,CRM Consultant - Microsoft Dynamics 365,CodeNinja,Saudi Arabia,bayt,2026-11-16,https://www.bayt.com/en/saudi-arabia/jobs/crm-consultant-microsoft-dynamics-365-75425104/
-3,Odoo ERP Administrator,Sealy Mattress Middle East,Saudi Arabia,bayt,2026-11-16,https://www.bayt.com/en/saudi-arabia/jobs/odoo-erp-administrator-75423910/
+6,SAP Functional Specialist,King Abdullah University of Science and Technology,Saudi Arabia,indeed,2026-11-18,https://sa.indeed.com/viewjob?jk=7004a9d9d66b046f
+5,CRM Dynamics Team Leader,EJADA,"Riyadh, Saudi Arabia",linkedin,2026-11-19,https://www.linkedin.com/jobs/view/4492299412
+5,Technical Support Engineer,ABYAT,"Dammam, Eastern, Saudi Arabia",linkedin,2026-11-17,https://www.linkedin.com/jobs/view/4491566653
+4,SAP FICO,KaarTech,"Al Khobar, Eastern, Saudi Arabia",linkedin,2026-11-19,https://www.linkedin.com/jobs/view/4492288794
+4,Information Technology Technical Support,Saudi Services For Electro Mechanic Works Co. SSEM,"Riyadh, Saudi Arabia",linkedin,2026-11-19,https://www.linkedin.com/jobs/view/4492412520
+4,"Head, IT Support Services",King Abdullah University of Science and Technology,Saudi Arabia,indeed,2026-11-18,https://sa.indeed.com/viewjob?jk=938632cad6507001
+4,Senior Enterprise Solution Architect,Consertus,Riyadh Region,linkedin,2026-11-19,https://www.linkedin.com/jobs/view/4492415918
+4,IT Help Desk Specialist - Jeddah,Alnafitha IT,"Jeddah, Makkah, Saudi Arabia",linkedin,2026-11-18,https://www.linkedin.com/jobs/view/4492021598
+4,MS Dynamics Solution Architect,EJADA,"Riyadh, Saudi Arabia",linkedin,2026-11-19,https://www.linkedin.com/jobs/view/4492290752
+3,Technical Support Specialists,Office Supplies Company,"Riyadh, Riyadh, Saudi Arabia",linkedin,2026-11-19,https://www.linkedin.com/jobs/view/4492285649
+3,Technical Support Analyst,Moody's,"الرياض, S01, Saudi Arabia",indeed,2026-11-19,https://sa.indeed.com/viewjob?jk=903103f5a2dc7841
+3,Business Analyst,EJADA,"Riyadh, Saudi Arabia",linkedin,2026-11-19,https://www.linkedin.com/jobs/view/4492294734
+3,"Business Excellence Expert, Procurement",Norconsult Telematics,"Riyadh, Saudi Arabia",linkedin,2026-11-18,https://www.linkedin.com/jobs/view/4492034614
+3,Project Manager-ERP,Systems Arabia,"Riyadh, Saudi Arabia",linkedin,2026-11-19,https://www.linkedin.com/jobs/view/4492410986
+3,CRM Support Engineer,AIQU,"Riyadh, Saudi Arabia",linkedin,2026-11-18,https://www.linkedin.com/jobs/view/4491831776
+3,Project Coordinator,PROGER,"الرياض, S01, Saudi Arabia",indeed,2026-11-17,https://sa.indeed.com/viewjob?jk=5db37936cfbb87ff
+3,Senior CRM Developer (D365),Salt,"Riyadh, Saudi Arabia",linkedin,2026-11-18,https://www.linkedin.com/jobs/view/4490870731
